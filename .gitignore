@@ -103,5 +103,4 @@ s
 # TernJS port file
 .tern-port
 
-*.imp
-.ideas
+.idea/
